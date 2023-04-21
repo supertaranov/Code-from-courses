@@ -1,4 +1,3 @@
-# Task 4
 # Given a string consisting of words separated by spaces. 
 # Write a program that counts the number of words in this line.
 

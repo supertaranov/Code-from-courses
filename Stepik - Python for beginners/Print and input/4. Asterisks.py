@@ -1,4 +1,3 @@
-# Task 4:
 # Write a program that outputs the specified triangle consisting of asterisks (*).
 
 print('*')

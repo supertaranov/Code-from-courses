@@ -1,4 +1,3 @@
-# Task 3
 # A line of text is given. Write a program to calculate the cost of a string, 
 # based on the fact that any one character (including a space) it costs 60 cents. 
 # Give the answer in dollars and cents according to the examples.

@@ -1,4 +1,3 @@
-# Task 1
 # The program is given two integers A and B as input. 
 # Write a program that outputs:
 # 1. the sum of the numbers
