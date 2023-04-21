@@ -6,8 +6,3 @@
 # Note 2. The checking system uses the standard output (stdout, command print()).
 
 print('Hello, World!')
-
-
-
-
-
