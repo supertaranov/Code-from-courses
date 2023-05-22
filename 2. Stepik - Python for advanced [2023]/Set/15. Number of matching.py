@@ -8,6 +8,6 @@
 # The program should output the number of numbers that are contained in both the first 
 # and second lines at the same time.
 
-myset1 = set(input().split())
-myset2 = set(input().split())
-print(len(myset1 & myset2))
+set1 = set(input().split())
+set2 = set(input().split())
+print(len(set1 & set2))

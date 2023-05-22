@@ -7,6 +7,6 @@
 # Output format:
 # The program has to print the set of numbers that occur in the first line only.
 
-myset1  = set(int(i) for i in input().split())
-myset2  = set(int(i) for i in input().split())
-print(*sorted(myset1.difference(myset2)))
+set1  = set(int(i) for i in input().split())
+set2  = set(int(i) for i in input().split())
+print(*sorted(set1.difference(set2)))

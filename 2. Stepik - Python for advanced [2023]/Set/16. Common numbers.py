@@ -7,6 +7,6 @@
 # Output format:
 # The program should print the set of numbers occurring in both lines.
 
-mylist1 = [int(i) for i in input().split()]
-myset1 = set(int(i) for i in input().split())
-print(*sorted(myset1.intersection(mylist1)))
+list1 = [int(i) for i in input().split()]
+set1 = set(int(i) for i in input().split())
+print(*sorted(set1.intersection(list1)))

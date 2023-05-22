@@ -10,8 +10,8 @@
 # If there are no common digits, there is no need to output anything.
 
 n = int(input())
-s1 = set(input())
+set1 = set(input())
 
 for _ in range(n-1):
-    s1 &= set(input()) 
-print(*sorted(s1))
+    set1 &= set(input()) 
+print(*sorted(set1))
